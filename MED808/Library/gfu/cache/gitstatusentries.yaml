@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 7d3a677691631814c819f6c04b639945, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-03-13T12:18:56.0353477+01:00
+  lastVerifiedAtString: 2018-03-13T12:21:09.4687676+01:00
+  initializedAtString: 2018-03-13T12:13:50.7281155+01:00
+  entries:
+  - path: MED808\Library\assetDatabase3
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MED808\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MED808\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MED808\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MED808\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MED808\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\TarGZ\archtemp.tar
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityLockfile
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-1d8782b22be13ac4a994a2afa45278b1
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-1d8782b22be13ac4a994a2afa45278b1
+    projectPath: Temp\UnityTempFile-1d8782b22be13ac4a994a2afa45278b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-21bba0019e1b99e46bdfa920dc7f1b94
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-21bba0019e1b99e46bdfa920dc7f1b94
+    projectPath: Temp\UnityTempFile-21bba0019e1b99e46bdfa920dc7f1b94
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-281e17c7d47bbe84da0936f4f76a5f31
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-281e17c7d47bbe84da0936f4f76a5f31
+    projectPath: Temp\UnityTempFile-281e17c7d47bbe84da0936f4f76a5f31
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-793bb147488eda64da896d84e124efad
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-793bb147488eda64da896d84e124efad
+    projectPath: Temp\UnityTempFile-793bb147488eda64da896d84e124efad
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-c0422ca0d18cbb945a37d8e82f3d67ba
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-c0422ca0d18cbb945a37d8e82f3d67ba
+    projectPath: Temp\UnityTempFile-c0422ca0d18cbb945a37d8e82f3d67ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MED808\Temp\UnityTempFile-db2e1efd8fc60b544bad078f4cf5d967
+    fullPath: C:\Users\dines\Desktop\MED808\MED808\Temp\UnityTempFile-db2e1efd8fc60b544bad078f4cf5d967
+    projectPath: Temp\UnityTempFile-db2e1efd8fc60b544bad078f4cf5d967
+    originalPath: 
+    status: 1
+    staged: 0

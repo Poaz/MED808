@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: 7d3a677691631814c819f6c04b639945, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2018-03-13T12:13:36.6676601+01:00
-  lastVerifiedAtString: 2018-03-13T12:13:36.6676601+01:00
+  lastUpdatedAtString: 2018-03-13T12:17:20.1013692+01:00
+  lastVerifiedAtString: 2018-03-13T12:17:20.1013692+01:00
   initializedAtString: 2018-03-13T12:13:36.4786588+01:00
   gitConfigBranch:
     name: master
@@ -22,7 +22,10 @@ MonoBehaviour:
   gitConfigRemote:
     name: origin
     url: https://github.com/Poaz/MED808.git
-  localBranches: []
+  localBranches:
+  - name: master
+    tracking: origin/master
+    isActive: 1
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -39,8 +42,13 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/Poaz/MED808.git
   remoteConfigBranches:
     keys:
     - origin
